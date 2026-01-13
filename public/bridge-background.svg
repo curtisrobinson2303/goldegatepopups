@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" preserveAspectRatio="xMidYMid slice">
+  <!-- White background -->
+  <rect width="1920" height="1080" fill="#ffffff"/>
+  
+  <!-- Bridge structure - Black -->
+  <g stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Main suspension cables - curved from towers -->
+    <path d="M 0 650 Q 480 350 960 350 T 1920 650" stroke-width="3.5" opacity="0.9"/>
+    
+    <!-- Left tower -->
+    <line x1="480" y1="350" x2="480" y2="850" stroke-width="4"/>
+    <line x1="440" y1="350" x2="520" y2="350" stroke-width="4"/>
+    <line x1="440" y1="850" x2="520" y2="850" stroke-width="4"/>
+    
+    <!-- Right tower -->
+    <line x1="1440" y1="350" x2="1440" y2="850" stroke-width="4"/>
+    <line x1="1400" y1="350" x2="1480" y2="350" stroke-width="4"/>
+    <line x1="1400" y1="850" x2="1480" y2="850" stroke-width="4"/>
+    
+    <!-- Vertical suspension cables from main cable to deck -->
+    <line x1="120" y1="580" x2="120" y2="650" stroke-width="1.5"/>
+    <line x1="240" y1="520" x2="240" y2="650" stroke-width="1.5"/>
+    <line x1="360" y1="460" x2="360" y2="650" stroke-width="1.5"/>
+    <line x1="600" y1="430" x2="600" y2="650" stroke-width="1.5"/>
+    <line x1="720" y1="400" x2="720" y2="650" stroke-width="1.5"/>
+    <line x1="840" y1="385" x2="840" y2="650" stroke-width="1.5"/>
+    <line x1="1080" y1="385" x2="1080" y2="650" stroke-width="1.5"/>
+    <line x1="1200" y1="400" x2="1200" y2="650" stroke-width="1.5"/>
+    <line x1="1320" y1="430" x2="1320" y2="650" stroke-width="1.5"/>
+    <line x1="1560" y1="460" x2="1560" y2="650" stroke-width="1.5"/>
+    <line x1="1680" y1="520" x2="1680" y2="650" stroke-width="1.5"/>
+    <line x1="1800" y1="580" x2="1800" y2="650" stroke-width="1.5"/>
+    
+    <!-- Horizontal deck/platform - spans full width -->
+    <line x1="0" y1="650" x2="1920" y2="650" stroke-width="6"/>
+    
+    <!-- Additional deck supports -->
+    <line x1="0" y1="650" x2="0" y2="680" stroke-width="3"/>
+    <line x1="1920" y1="650" x2="1920" y2="680" stroke-width="3"/>
+  </g>
+</svg>

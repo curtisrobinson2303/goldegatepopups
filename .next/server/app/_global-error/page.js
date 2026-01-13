@@ -1,0 +1,11 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_global-error/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0f139fbf._.js")
+R.c("server/chunks/ssr/goldegatepopups_86dd98dd._.js")
+R.c("server/chunks/ssr/5935e_next_dist_c659c918._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__fb8ac953._.js")
+R.c("server/chunks/ssr/5935e_25c8a3f9._.js")
+R.c("server/chunks/ssr/5935e_next_dist_d68dac30._.js")
+R.c("server/chunks/ssr/goldegatepopups_app_d5d4c38b._.js")
+R.c("server/chunks/ssr/goldegatepopups__next-internal_server_app__global-error_page_actions_f747b1eb.js")
+R.m(33499)
+module.exports=R.m(33499).exports
